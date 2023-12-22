@@ -1,4 +1,4 @@
-# Sudoko_solver
+# Sudoko_solver Using BackTracking
 A Sudoku solver is a program that can solve Sudoku puzzles. Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9.
 
 A Sudoku solver in Python can be implemented using a backtracking algorithm. Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution.
